@@ -80,8 +80,7 @@ on:
         default: "-beta"
         type: choice
         options:
-          - -beta
-          - -yourname
+          - -march
 
 env:
   TZ: America/New_York
